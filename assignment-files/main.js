@@ -12,28 +12,23 @@ document.querySelector("#double button").addEventListener('click',function(){
 
 })
 
-
-document.querySelector("#color-circle button").addEventListener('click',function(){
+document.querySelector("#blow-up button").addEventListener('click',function(){
   // TASK #3
 })
 
-document.querySelector("#blow-up button").addEventListener('click',function(){
-  // TASK #4}
-})
-
 document.querySelector("#remove button").addEventListener('click',function(){
-  // TASK #5
+  // TASK #4
 })
 
 
 document.querySelector("#reverse-squares button").addEventListener('click',function(){
-  // TASK #6
+  // TASK #5
 })
 
 document.querySelector("#pig-latin button").addEventListener('click',function(){
-  // TASK #7
+  // TASK #6
 })
 
 document.querySelector("#cycle-image button").addEventListener('click',function(){
-   //TASK #8
+   //TASK #7
 })

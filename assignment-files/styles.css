@@ -3,14 +3,23 @@
 }
 body{
   font-family: 'Helvetica Neue';
+  line-height: 1.5
 }
 
 hr.q-divider{
   margin: 80px 0;
 }
 
+code {
+  border: 1px #999 solid;
+  padding: 2px;
+  color: firebrick;
+}
+
 .exercise-container{
   font-size: 0;
+  max-width: 1400px;
+  margin: 0 auto;
 }
 .exercise-container > * {
   font-size: medium;
